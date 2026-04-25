@@ -1,0 +1,13 @@
+# quantum-signal-engine
+# No external dependencies required.
+# All modules used are Python standard library only.
+#
+# Python >= 3.8
+#
+# Standard library used:
+#   math      — sqrt() for sigma computation
+#   datetime  — deterministic timestamp generation
+#   json      — event serialisation in run_signal.py
+#   sys       — path management, exit codes
+#   io        — Windows UTF-8 stdout fix
+#   os        — path resolution
